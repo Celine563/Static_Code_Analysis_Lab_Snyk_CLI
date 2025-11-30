@@ -1,0 +1,1 @@
+{"docker":{"/secrets":{"guestpath":"/secrets","hostpath":"C:/Users/enile/Documents/django-coffeeshop/coffeeshop/secrets","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/enile/Documents/django-coffeeshop/coffeeshop/vagrant","disabled":false,"__vagrantfile":true}}}
