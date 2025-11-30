@@ -21,3 +21,4 @@ jupyter-core>=5.8.0 # not directly required, pinned by Snyk to avoid a vulnerabi
 sqlparse>=0.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
 zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
 tornado>=6.3.2 # not directly required, pinned by Snyk to avoid a vulnerability
+jwcrypto>=1.5.6 # not directly required, pinned by Snyk to avoid a vulnerability
