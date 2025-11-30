@@ -13,3 +13,4 @@ jupyterlab
 django-cors-headers
 django-csp
 pep8
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
